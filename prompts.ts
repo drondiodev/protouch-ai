@@ -8,8 +8,8 @@ export const PROMPTS = [
     tooltipKey: 'prompts.classic_tooltip',
     prompt: `Black and white close-up portrait of a me with a calm, confident, and intelligent expression. The subject is gazing directly at the camera with a subtle, knowing smile. He wears a dark high-collar sweater. His hands are gently brought together in front of his face in a thoughtful gesture, fingers interlaced near the chin. The background is softly blurred, creating a shallow depth of field that emphasizes the subject’s face and hands. The lighting is soft and diffused, evenly illuminating the face with gentle contrast and smooth tonal gradation. The overall style is minimalist and editorial, evoking a sense of introspection, creativity, and quiet authority. Shot with DSLR clarity and cinematic black-and-white aesthetic.nerate a black and white close-up portrait of a me with a calm, confident, and intelligent expression. The subject is gazing directly at the camera with a subtle, knowing smile. He wears a dark high-collar sweater. His hands are gently brought together in front of his face in a thoughtful gesture, fingers interlaced near the chin. The background is softly blurred, creating a shallow depth of field that emphasizes the subject’s face and hands. The lighting is soft and diffused, evenly illuminating the face with gentle contrast and smooth tonal gradation. The overall style is minimalist and editorial, evoking a sense of introspection, creativity, and quiet authority. Shot with DSLR clarity and cinematic black-and-white aesthetic.`,
     disabled: false,
-    previewImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/classic.png',
-    exampleImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/classic.png',
+    previewImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/classic.webp',
+    exampleImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/classic.webp',
   },
   {
     id: 'modern',
@@ -18,8 +18,8 @@ export const PROMPTS = [
     tooltipKey: 'prompts.modern_tooltip',
     prompt: `Generate a professional, high-resolution, minimalist close-up portrait of me with a contemporary aesthetic. The subject should have a neutral, composed expression, looking slightly off-camera with a sense of focus and clarity. They should be wearing a simple, well-fitted garment with clean lines, like a mock-neck shirt or a simple blazer, in a neutral color (e.g., charcoal grey, beige, or off-white). The background must be a clean, uncluttered, solid light grey or beige wall. The lighting should be bright but soft, creating sharp, defined lines without harsh contrasts. The color palette should be muted and desaturated, leaning towards monochrome but with subtle hints of color. The overall style must be clean, sophisticated, and modern, emphasizing structure and simplicity. The final image should have the crispness of a high-end digital photograph. Do not include any text or watermarks.`,
     disabled: false,
-    previewImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/modern.png',
-    exampleImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/modern.png',
+    previewImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/modern.webp',
+    exampleImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/modern.webp',
   },
   {
     id: 'realistic',
@@ -28,8 +28,8 @@ export const PROMPTS = [
     tooltipKey: 'prompts.realistic_tooltip',
     prompt: `Ultra-realistic, high-detail editorial portrait of me with sharp facial features and flawless skin, wearing a plain black t-shirt. The background is a bold red gradient, creating a striking contrast. Dramatic, cinematic lighting emphasizes the contours of my face, casting soft shadows to enhance his chiseled bone structure, giving the image a luxury magazine cover vibe. The composition is symmetrical, with clean, minimal background elements to maintain focus on the subject. Shot in 4K resolution, 4:3 aspect ratio.`,
     disabled: false,
-    previewImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/realistic.png',
-    exampleImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/realistic.png',
+    previewImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/realistic.webp',
+    exampleImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/realistic.webp',
   },
   {
     id: 'cinematic',
@@ -38,8 +38,8 @@ export const PROMPTS = [
     tooltipKey: 'prompts.cinematic_tooltip',
     prompt: `Generate a professional, high-resolution portrait with a cinematic aesthetic. The subject should have a determined and slightly dramatic expression, looking away from the camera as if contemplating something important. They should be wearing a luxury, textured wool coat in a dark brown. The coat collar should be raised to create an enigmatic look. The shirt is a luxurious white formal shirt. The background should be an out-of-focus urban or natural environment at dusk or dawn, with visible bokeh from distant lights. The lighting should be moody and directional, like a single key light creating strong highlights and deep shadows (chiaroscuro effect), reminiscent of a film noir style. The color grading should be cinematic, with teal and orange tones, or a desaturated, high-contrast look. The overall style must be dramatic, evocative, and professional, telling a story through the image. The final image should have the quality of a high-end film still. Do not include any text or watermarks.`,
     disabled: false,
-    previewImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/cinematic.png',
-    exampleImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/cinematic.png',
+    previewImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/cinematic.webp',
+    exampleImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/cinematic.webp',
   },
   {
     id: 'vintage',
@@ -48,7 +48,7 @@ export const PROMPTS = [
     tooltipKey: 'prompts.vintage_tooltip',
     prompt: `An ultra-realistic 4K portrait of a me, 100% faithful to the uploaded face. He stands casually in front of a plain wall. He wears a crisp white linen shirt paired with cream-colored high-waisted trousers. His hands rest in his pockets, giving him a relaxed, confident retro look. Naturally, sunlight illuminates the contours. The aesthetic is cinematic, vintage, and editorial, with warm tones, delicate grain, and timeless elegance.`,
     disabled: false,
-    previewImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/vintage.png',
-    exampleImage: 'https://raw.githubusercontent.com/drondiodev/protouch-assets/main/vintage.png',
+    previewImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/vintage.webp',
+    exampleImage: 'https://raw.githubusercontent.com/Drondiodev/protouch-assets/main/vintage.webp',
   },
 ];
