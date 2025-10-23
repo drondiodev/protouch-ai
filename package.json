@@ -1,0 +1,19 @@
+{
+  "name": "protouch-ai",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "rm -rf dist && mkdir dist && cp index.html dist/ && cp -r images dist/ && esbuild index.tsx --bundle --outfile=dist/index.js --jsx=automatic --format=esm --platform=browser --external:react --external:react-dom/* --external:framer-motion --external:@google/genai"
+  },
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "framer-motion": "^11.3.19",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "esbuild": "^0.23.0"
+  }
+}
